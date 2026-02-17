@@ -1,0 +1,6 @@
+{
+  "google-auth": "https://functions.poehali.dev/4e01127e-28ef-4706-9775-8dd27d9239ca",
+  "answers-api": "https://functions.poehali.dev/3da29c1a-a4af-46df-9530-541d3f679bb0",
+  "votes-api": "https://functions.poehali.dev/8a3228a2-2ddc-406a-8fbe-47a3b4428c6c",
+  "questions-api": "https://functions.poehali.dev/0921a5a0-ee05-4533-979f-f47181bab959"
+}
